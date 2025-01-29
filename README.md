@@ -1,2 +1,2 @@
 # Arbolytics Repository
- Repositorio arquivos do tcc versionados
+This repository contains the files of the Arbolytics system, developed as part of the Computer Science graduation course at Instituto Federal Goiano – Campus Rio Verde, by Igor Ferreira Araujo under the guidance of Professor Douglas Cedrim Oliveira. This work was awarded first place in the 2024 Scientific Initiation Work Competition at the "Simpósio Brasileiro de Computação Aplicada à Saúde".
